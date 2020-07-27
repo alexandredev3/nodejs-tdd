@@ -45,35 +45,18 @@
   - **Sequelize**
 
 ## Usage
-  #### how to use the backend server and the frontend
-    1. Copy the url from the repository.
+    1. Copy the Repository SSH.
 
     2. Open your project and type this command in your terminal:
     
-      $ git clone https://github.com/alexandredev3/ecoleta-nlw01.git
+      $ git clone https://github.com/alexandredev3/nodejs-tdd.git
 
     3. Command to turn on the backend server
     
-      $ yarn dev:server
-        * Server is running on http://localhost:3333/
-
-    4. Command to start ReactJS
-    
-      $ yarn start
-
-    5. Go to http://localhost:3000/
-
-  #### how to use the mobile application
-    
-    1. Install the Expo on your device.
-    
-    2. Install the expo cli on your machine
-
-      $ yarn global add expo-cli
-     
-    3. Open the ecoleta mobile project and run this code on the terminal.
-    
-      $ yarn start
+      $ yarn dev
+   
+      $ yarn test
+       Run tests
 
     Have a good time! 😃
     
